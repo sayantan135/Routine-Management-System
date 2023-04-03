@@ -1,1 +1,1 @@
-# THIS IS REPO OF THE PROJECTS FOR SWOC
+# Routine Management System using React
